@@ -3,7 +3,7 @@
 </h3>
 <img align="right" alt="BEN10" wight="800" src="https://24.media.tumblr.com/9c91e5f06d5c4cb0873122897046a044/tumblr_mk342eWOep1r8suc9o1_r1_500.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=oxben10&label=Profile%20views&color=0e75b6&style=flat" alt="oxben10" wight="100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxben10&label=Profile%20views&color=0e75b6&style=flat" alt="oxben10" wight="100" /> </p>
 
 - 🌱 I’m currently learning **Hardware hacking**
 
